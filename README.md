@@ -1,5 +1,6 @@
 # SQL-Project-1
 Amazon sales Analysis
+
 This project involves analyzing sales data from Amazon to derive insights and answer specific queries related to product discounts, reviews, and pricing. The analysis aims to facilitate data-driven decision-making by identifying trends and patterns in the sales data.
 
 problem statement:
